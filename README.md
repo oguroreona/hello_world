@@ -1,3 +1,2 @@
 # hello_world
-for PBL2 2026
-実習
+実習のブランチ
